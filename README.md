@@ -1,4 +1,4 @@
-# Aine-MD
+# BOT OFFICIAL WHATSAPP 
 
 This script is free, if caught sold, this script will be deleted immediately.
 Don't forget to follow my github
@@ -9,7 +9,7 @@ Jangan lupa untuk mengikuti github ku
 * My Facebook [`Click Here`](https://facebook.com/ainneboot)
 
 ## Heroku Buildpack
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aiinne/Aine-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XzeeBotz/v11-v2)
 
 | BuildPack | LINK |
 |--------|--------|
@@ -35,7 +35,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/Aiinne/Aine-MD
+git clone https://github.com/XzeeBotz/v11-v2
 cd Aine-MD
 pkg install yarn
 yarn
@@ -72,7 +72,7 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Aiinne/Aine-MD
+git clone https://github.com/XzeeBotz/v11-v2
 cd Aiinne-MD
 npm install
 npm update
@@ -88,7 +88,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Aiinne/Aine-MD
+git clone https://github.com/XzeeBotz/v11-v2
 cd Aiinne-MD
 npm install
 npm update
@@ -185,7 +185,7 @@ conn.logger.level = 'debug'
 
 ## Settings
 
-Now set using switch [enable.js](https://github.com/Aiinne/Aine-MD/blob/master/plugins/enable.js), among others are
+Now set using switch [enable.js](https://github.com/XzeeBotz/v11-v2/blob/master/plugins/enable.js), among others are
 
 ```js
 autoread: false, // If true all chats are automatically read
@@ -221,5 +221,5 @@ Semua yang selalu mendukung
 [![rahmad13](https://github.com/rahmad13.png?size=100)](https://github.com/rahmad13)
 
 
-Best Regards. Aine-MD
+Best Regards. BOT OFFICIAL WHATSAPP 
 
