@@ -14,16 +14,23 @@ let handler = async (m, { conn }) => {
         
 1. Grup / 30 Hari
 Rp. 15.000 Dana
-Rp. 15.000 Pulsa
+Rp. 20.000 Pulsa
 
 2. Premium / 30 Hari
 Rp. 10.000 Dana
-Rp. 10.000 Pulsa
+Rp. 15.000 Pulsa
 
 3. Premium + Grup / 30 Hari
 Rp. 20.000 Dana
-Rp. 20.000 Pulsa
+Rp. 25.000 Pulsa
 
+4. Jadi Bot / 30 Hari
+Rp. 40.000 Dana
+Rp. 45.000 Pulsa
+
+5. Permanen + Grup
+Rp. 20.000 Dana #Promo
+Rp. 45.000 Pulsa
 wa.me/${owner[0]}
 *Bukan Bot!!!*
 *Owner ${conn.user.name}*
